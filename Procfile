@@ -1,2 +1,2 @@
-web: gunicorn HMS.HMS.wsgi
+web: gunicorn HMS.wsgi
  
